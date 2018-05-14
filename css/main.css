@@ -118,3 +118,19 @@ footer {
 	border-top-color: #fff;
 	color: #fff;
 }
+
+.hs-responsive-download-video {
+	margin: 20px;
+	position: relative;
+	width: 100%;
+	height: 100%;
+	padding-top: 25px;
+	padding-bottom: 56.25%;
+	margin-bottom: 20px;
+}
+
+.hs-responsive-download-video video {
+	position: absolute;
+	width: 100%!important;
+	height: 100%!important;
+}
