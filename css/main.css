@@ -106,6 +106,10 @@ h2 {
 	max-width: 800px;
 }
 
+p {
+	max-width: 800px;
+}
+
 a {
 	color: #3b759f;
 	text-decoration: none;
@@ -181,4 +185,5 @@ footer {
 
 .liste {
 	list-style-type: none;
+	margin: 0 0 3em;
 }
